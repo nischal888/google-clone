@@ -33,5 +33,8 @@ Create a .env.local file in the project root and add your API Key and Context Ke
 
 npm run dev 
 
+Open http://localhost:3000 to view it in the browser
+
+
 
 
