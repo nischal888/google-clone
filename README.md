@@ -1,4 +1,4 @@
-![](burgerapp.gif)
+
 
 ##This is a simple google clone application where you do simple search like google. The app is built using Next.js Google search API
 
@@ -19,14 +19,11 @@ Getting Started
  https://github.com/nischal888/google-clone.git
 
 
-
-
 ### Install dependencies:
 
 npm install
 
-### Set up Firebase:
-
+### Set up Google Api:
 
 Obtain your Google Api configuration.
 Create a .env.local file in the project root and add your API Key and Context Key configuration:
@@ -34,5 +31,6 @@ Create a .env.local file in the project root and add your API Key and Context Ke
 ### Run the app:
 
 npm run dev 
+
 
 
