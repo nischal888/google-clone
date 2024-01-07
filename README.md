@@ -1,3 +1,4 @@
+![googleClone](https://github.com/nischal888/google-clone/assets/29753410/28caec08-01e8-4b4c-a55e-8551fdd6c043)
 
 
 ##This is a simple google clone application where you do simple search like google. The app is built using Next.js Google search API
