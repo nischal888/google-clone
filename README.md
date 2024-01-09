@@ -13,7 +13,6 @@ Next.js, Tailwind CSS, Google Search Api
 
 To run this project locally, follow these steps:
 
-Getting Started
 
 ### Clone the repository:
 
